@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/ritik/Desktop/100_DAYS_COLLEGE_PROBLEM.C",
+      "program": "/Users/ritik/Desktop/100_DAYS_COLLEGE_PROBLEM.C/build/Debug/outDebug"
+    }
+  ]
+}
